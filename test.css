@@ -1,0 +1,14 @@
+body{
+    background-image: url('sunshine.jpg');
+    background-position:center;
+    height: auto;
+    width: auto;
+}
+h1{
+    color:black;
+    padding: 100px;
+    text-align:center;
+}
+a:hover{
+    color:blue;
+}
